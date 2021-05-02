@@ -7,7 +7,7 @@ HTML
 CSS
 Website
 
-https://scuobahia.github.io/Horiseon/Run
+https://scuobahia.github.io/Horiseon/
 
 Contribution
 
