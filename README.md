@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-A website that offers Seo, online reputation management and social media marketing services
+A website that offers SEO, online reputation management and social media marketing services
 
 Built With
 
